@@ -21,7 +21,3 @@ This project is a professional Python application that generates a vibrant digit
     ```
 3. A window will appear, displaying the step-by-step drawing of Lord Ganesha along with a festive greeting.
 
-## Value Proposition
-- **For HRA Recruiters**: This project showcases attention to detail, code organization, and creativity. It is an example of how technical skills can be applied to create engaging and culturally relevant digital experiences.
-- **For Users**: The application is easy to run, requires no setup beyond Python, and provides a visually appealing result suitable for presentations, celebrations, or educational purposes.
-
